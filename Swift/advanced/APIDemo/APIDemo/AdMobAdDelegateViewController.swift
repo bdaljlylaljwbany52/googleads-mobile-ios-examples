@@ -14,7 +14,7 @@
 //  limitations under the License.
 //
 
-import GoogleMobileAds
+import GoogleMobileAdsca-app-pub-4031685993447451/5402713339
 import UIKit
 
 /// AdMob - Ad Delegate
