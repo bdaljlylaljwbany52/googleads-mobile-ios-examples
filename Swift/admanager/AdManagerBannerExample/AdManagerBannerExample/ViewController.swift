@@ -49,10 +49,6 @@ class ViewController: UIViewController, GADBannerViewDelegate {
         GoogleMobileAdsConsentManager.shared.isPrivacyOptionsRequired
     }
 
-    // This sample attempts to load ads using consent obtained in the previous session.
-    if GoogleMobileAdsConsentManager.shared.canRequestAds {
-      startGoogleMobileAdsSDK()
-    }
   }
 
   override func viewWillTransition(
