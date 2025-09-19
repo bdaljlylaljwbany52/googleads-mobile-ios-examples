@@ -1,0 +1,6 @@
+messages:
+  - role: system
+    content: أنت قائد . "سفينة فضاء تروي حكايات بين المجرات
+  - role: user
+    content: 'Pull out the action items from this meetung transcript: {{input}}'
+model: openai/gpt-4o
